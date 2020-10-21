@@ -1,0 +1,22 @@
+body {
+background-color:yellow;
+
+}
+
+nav ul li {
+display: inline;
+}
+
+img {
+    width: 600px;
+    height: 600px;
+
+}
+
+
+.footer{
+	text-align:center;
+	height: 40px;
+
+	bottom: 0;
+}
