@@ -1,0 +1,37 @@
+
+
+body {
+background-color:yellow;
+
+}
+
+
+
+img {
+    width: 250px;
+    height: 250px;
+
+}
+
+iframe
+{
+width: 100%;
+}
+#Kontakt
+{
+color: black;
+
+}
+.footer{
+	text-align:center;
+	height: 40px;
+
+	bottom: 0;
+}
+a:hover
+{
+background-color:white;
+color: orange;
+
+
+}
